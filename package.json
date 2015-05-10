@@ -1,0 +1,30 @@
+{
+  "name": "relay-global-immutable-store",
+  "version": "0.1.1",
+  "description": "thoughts about relay-like global immutable stores",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lelandrichardson/relay-global-immutable-store.git"
+  },
+  "keywords": [
+    "relay",
+    "react",
+    "store",
+    "immutable",
+    "cache",
+    "offline"
+  ],
+  "author": "Leland Richardson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lelandrichardson/relay-global-immutable-store/issues"
+  },
+  "homepage": "https://github.com/lelandrichardson/relay-global-immutable-store",
+  "dependencies": {
+    "immutable": "^3.7.2"
+  }
+}
